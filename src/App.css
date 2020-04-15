@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+.main {
+  margin-top: 5rem;
+}
+
+.countryInput {
+  height: 25px;
+}
+
+.submit {
+  margin-left: 10px;
+  height: 30px;
+}
+
+li {
+  padding: 5px;
+}
